@@ -240,8 +240,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 480, y: -199.63788}
-  m_SizeDelta: {x: 960.01, y: 453.2358}
+  m_AnchoredPosition: {x: 480, y: -227.95471}
+  m_SizeDelta: {x: 960.01, y: 509.8694}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &606241651
 MonoBehaviour:
@@ -360,8 +360,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 472.52466, y: -197.68}
-  m_SizeDelta: {x: 893.0629, y: 395.36}
+  m_AnchoredPosition: {x: 493, y: -215.081}
+  m_SizeDelta: {x: 934.01, y: 484.122}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1197341565
 MonoBehaviour:
@@ -396,7 +396,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Where am I? Is this a moon? Where is my ship? I should take a look around.
+  m_Text: You awaken in a hospital room, alone and disoriented. You find your clothes
+    and leave the room. There's a noise, do you go left to investigate or right towards
+    the exit?
 --- !u!222 &1197341566
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -542,8 +544,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -466.76, y: 115.59}
-  m_SizeDelta: {x: 933.51, y: 231.19}
+  m_AnchoredPosition: {x: -404.84, y: 170}
+  m_SizeDelta: {x: 1110.3, y: 267.23}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1623195019
 MonoBehaviour:
@@ -683,8 +685,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -463.48602, y: 145.2638}
-  m_SizeDelta: {x: 852.1404, y: 178.4711}
+  m_AnchoredPosition: {x: -374.9923, y: 207}
+  m_SizeDelta: {x: 1083.8295, y: 240.2496}
   m_Pivot: {x: 0.51532733, y: 0.66278017}
 --- !u!114 &1915934828
 MonoBehaviour:
@@ -719,7 +721,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Spacewreck
+  m_Text: The Apocalypse
 --- !u!222 &1915934829
 CanvasRenderer:
   m_ObjectHideFlags: 0

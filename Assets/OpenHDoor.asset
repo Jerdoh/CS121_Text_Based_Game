@@ -10,10 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7776cb33d7a7e44ea8936464de1ce60f, type: 3}
-  m_Name: Settlement
+  m_Name: OpenHDoor
   m_EditorClassIdentifier: 
-  gameText: A settlement! Here come the villagers. Game over! The villagers killed
-    you. Should your ghost go right to get back to the beach or left to your ship?
+  gameText: You remove the barricade and the door is forced open by a large mass
+    of the mindless undead. You are immediately attacked by the mob. Press left to
+    have your ghost return to the hospital room or right to continue being attacked.
   otherStates:
-  - {fileID: 11400000, guid: 8f8c92900164942be8c7e8e463792c91, type: 2}
   - {fileID: 11400000, guid: a2ddf8b7c3d5b436380955a08830e5f1, type: 2}
+  - {fileID: 11400000, guid: 7befa6dc577a34826961b038c0f84229, type: 2}

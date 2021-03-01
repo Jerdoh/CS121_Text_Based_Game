@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7776cb33d7a7e44ea8936464de1ce60f, type: 3}
+  m_Name: HospitalCar
+  m_EditorClassIdentifier: 
+  gameText: The car windows are filthy, so you open the door to see inside. You are
+    attacked by a reanimated corpse, eventually becoming an undead ghoul. Press left
+    to start over or right to continue your undead afterlife roaming the earth.
+  otherStates:
+  - {fileID: 11400000, guid: a2ddf8b7c3d5b436380955a08830e5f1, type: 2}
+  - {fileID: 11400000, guid: 81c8fb8db0a3b43078d195f02543890d, type: 2}

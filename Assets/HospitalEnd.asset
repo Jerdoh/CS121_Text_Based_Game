@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7776cb33d7a7e44ea8936464de1ce60f, type: 3}
-  m_Name: Start
+  m_Name: HospitalEnd
   m_EditorClassIdentifier: 
-  gameText: Waking in a hospital room, alone and disoriented. You find your clothes
-    and leave the room. There's a noise, do you go left to investigate or right towards
-    the exit?
+  gameText: The mob overwhelms you. Eventually you become another mindless drone
+    in the mass. Press left to start over or right to continue your undead afterlife
+    roaming the earth.
   otherStates:
-  - {fileID: 11400000, guid: 8f8c92900164942be8c7e8e463792c91, type: 2}
-  - {fileID: 11400000, guid: 7da7ace5d476a40369ae48538db7e2ca, type: 2}
+  - {fileID: 11400000, guid: a2ddf8b7c3d5b436380955a08830e5f1, type: 2}
+  - {fileID: 11400000, guid: 81c8fb8db0a3b43078d195f02543890d, type: 2}

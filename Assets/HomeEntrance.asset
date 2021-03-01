@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7776cb33d7a7e44ea8936464de1ce60f, type: 3}
+  m_Name: HomeEntrance
+  m_EditorClassIdentifier: 
+  gameText: Your home seems to have been abandoned along with every other house you
+    passed on the way. As you reach for the door you hear a thud from inside. Press
+    left to go inside or right to search for other people.
+  otherStates:
+  - {fileID: 11400000, guid: e9cc9f73978bb4a848045aeb3829aee1, type: 2}
+  - {fileID: 11400000, guid: 9f963d439f08b4568b68477d5da49f4c, type: 2}

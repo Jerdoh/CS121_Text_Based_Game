@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7776cb33d7a7e44ea8936464de1ce60f, type: 3}
-  m_Name: Ship
+  m_Name: ApproachGroup
   m_EditorClassIdentifier: 
-  gameText: My ship! Great! Oh, someone looted it. Should I go right and look for
-    the thief or left to head back to the beach?
+  gameText: The group surrounds you and you are attacked by a madman with a barbwire
+    wrapped baseball bat. Press left to start over.
   otherStates:
   - {fileID: 11400000, guid: a2ddf8b7c3d5b436380955a08830e5f1, type: 2}
-  - {fileID: 11400000, guid: 7da7ace5d476a40369ae48538db7e2ca, type: 2}
+  - {fileID: 11400000}
